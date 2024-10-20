@@ -1,0 +1,12 @@
+Sequential Search:
+
+Best Case: O(1)
+Average Case: O(n)
+Worst Case: O(n)
+
+
+Binary Search:
+
+Best Case: O(1)
+Average Case: O(log n)
+Worst Case: O(log n)
